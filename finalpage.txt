@@ -1,1 +1,4 @@
 Merhaba dünya
+
+
+Yeni çalışmaları direk GitHub'da yapıp local'a çekme çalışmasıdır.
